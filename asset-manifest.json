@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TypingSpeed/static/css/main.77947432.chunk.css",
+    "main.js": "/TypingSpeed/static/js/main.be69a512.chunk.js",
+    "main.js.map": "/TypingSpeed/static/js/main.be69a512.chunk.js.map",
+    "runtime-main.js": "/TypingSpeed/static/js/runtime-main.3b099956.js",
+    "runtime-main.js.map": "/TypingSpeed/static/js/runtime-main.3b099956.js.map",
+    "static/js/2.a655bf5e.chunk.js": "/TypingSpeed/static/js/2.a655bf5e.chunk.js",
+    "static/js/2.a655bf5e.chunk.js.map": "/TypingSpeed/static/js/2.a655bf5e.chunk.js.map",
+    "static/js/3.5a809a81.chunk.js": "/TypingSpeed/static/js/3.5a809a81.chunk.js",
+    "static/js/3.5a809a81.chunk.js.map": "/TypingSpeed/static/js/3.5a809a81.chunk.js.map",
+    "index.html": "/TypingSpeed/index.html",
+    "static/css/main.77947432.chunk.css.map": "/TypingSpeed/static/css/main.77947432.chunk.css.map",
+    "static/js/2.a655bf5e.chunk.js.LICENSE.txt": "/TypingSpeed/static/js/2.a655bf5e.chunk.js.LICENSE.txt",
+    "static/media/restart.f72baf46.png": "/TypingSpeed/static/media/restart.f72baf46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b099956.js",
+    "static/js/2.a655bf5e.chunk.js",
+    "static/css/main.77947432.chunk.css",
+    "static/js/main.be69a512.chunk.js"
+  ]
+}
